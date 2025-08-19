@@ -26,14 +26,6 @@ The goal of this project is to classify traffic signs into one of **43 categorie
 
 ---
 
-## Installation & Requirements
-Install the dependencies before running the notebook:
-
-```bash
-pip install tensorflow keras numpy matplotlib seaborn scikit-learn kagglehub
-
----
-
 ##  Model Architectures
 1. Custom CNN
 - 3 × Conv2D + MaxPooling layers
@@ -54,3 +46,10 @@ pip install tensorflow keras numpy matplotlib seaborn scikit-learn kagglehub
 2. MobileNetV2
 - Validation Accuracy : 45.12%
 
+---
+
+## Installation & Requirements
+Install the dependencies before running the notebook:
+
+```bash
+pip install tensorflow keras numpy matplotlib seaborn scikit-learn kagglehub
